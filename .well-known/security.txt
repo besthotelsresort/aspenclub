@@ -1,0 +1,4 @@
+Contact: mailto:security@aspenclub.example
+Expires: 2027-07-05T20:41:00.470Z
+Preferred-Languages: en, de, fr
+Canonical: https://aspenclub.onrender.com/.well-known/security.txt
